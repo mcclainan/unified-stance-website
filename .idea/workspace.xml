@@ -1,69 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae5d1dbe-b138-4691-a3c1-188a9686677f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/unified-stance-website.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/100x100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/300x300.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/348x261.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/gallery/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/gallery/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/imgl.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/imgr.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.backtotop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/scripts/jquery.mobilemenu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/css/fontawesome-all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/css/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/fontawesome-free/webfonts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/framework.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/styles/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/licence.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/basic-grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/font-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/full-width.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index-copy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/sidebar-left.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/sidebar-right.html" afterDir="false" />
+    <list default="true" id="ae5d1dbe-b138-4691-a3c1-188a9686677f" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/styles/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/layout/styles/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/basic-grid.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/basic-grid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/full-width.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/full-width.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +31,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layout" />
+      <recent name="$PROJECT_DIR$/images/demo/backgrounds" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -104,7 +53,19 @@
       <updated>1636508362491</updated>
       <workItem from="1636508366551" duration="133000" />
       <workItem from="1636508586746" duration="589000" />
+      <workItem from="1636509291028" duration="705000" />
+      <workItem from="1637103191966" duration="3247000" />
+      <workItem from="1637106774807" duration="53000" />
+      <workItem from="1638918740032" duration="2715000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1636509340921</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636509340921</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +82,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
