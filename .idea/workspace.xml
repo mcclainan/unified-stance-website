@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae5d1dbe-b138-4691-a3c1-188a9686677f" name="Changes" comment="Building out">
-      <change afterPath="$PROJECT_DIR$/images/Adult_services.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Adult_services2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/adults_field_walk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bottom-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/children_playing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/demo/backgrounds/main-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layout/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -25,6 +19,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="20hssbvAfMYbP6saC9IGW9C7hXj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,7 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="aws.lambda" />
   </component>
